@@ -44,15 +44,15 @@ p {line-height: 2}
 <head>
 <style>
 table {
-  font-family: Raleway, Raleway;
-  border-collapse: collapse;
+  font-family: Raleway;
   width: 100%;
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid #ECECEC;
   text-align: left;
-  padding: 8px;
+  padding: 5px;
+  height: 25px;
 }
 
 </style>
@@ -63,8 +63,7 @@ td, th {
 <div class="w3-container w3-padding-64 w3-pale-grey w3-grayscale-min" id="us">
   <div class="w3-content">
     <h1 class="w3-center w3-text-grey"><b>Login</b></h1>
-    <img class="w3-round w3-grayscale-min" src="/w3images/wedding_couple2.jpg" style="width:100%;margin:32px 0">
-  <table>
+    <table>
       <tr>
         <th>Email</th>
         <th>Password</th>
@@ -79,7 +78,6 @@ td, th {
 <div class="w3-container w3-padding-64 w3-pale-grey w3-grayscale-min" id="us">
   <div class="w3-content">
     <h1 class="w3-center w3-text-grey"><b>Sign up</b></h1>
-    <img class="w3-round w3-grayscale-min" src="/w3images/wedding_couple2.jpg" style="width:100%;margin:32px 0">
     <table>
       <tr>
         <th>Name</th>
@@ -112,9 +110,7 @@ td, th {
   <div class="w3-content">
     <h1 class="w3-center w3-text-grey"><b>About</b></h1>
     <img class="w3-round w3-grayscale-min" src="/w3images/wedding_couple2.jpg" style="width:100%;margin:32px 0">
-    <p><i>You all know us. And we all know you. We are getting married lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-      laboris nisi ut aliquip ex ea commodo consequat.</i>
+    <p><i>Quick Screen is a COVID web application questionnaire tool that provides a faster, more efficient way to screen people entering a business. We created Quick Screen to limit close contact between employees and customers during COVID screenings at entrances.  .</i>
     </p><br>
   </div>
 </div>
